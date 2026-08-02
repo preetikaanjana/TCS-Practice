@@ -49,16 +49,16 @@ This repository contains **100 curated coding problems, patterns, and Previous Y
 - [ ] **Prob 23:** Rotate array elements by K positions (Left/Right) \| [Problem Link](https://leetcode.com/problems/rotate-array/)
 - [x] **Prob 24:** Find the average of all elements in an array \| [Problem Link](https://www.geeksforgeeks.org/program-average-array-iterative-recursive/)
 - [x] **Prob 25:** Find the median of a given array \| [Problem Link](https://www.geeksforgeeks.org/problems/find-the-median0527/1)
-- [ ] **Prob 26:** Remove duplicates from a sorted array \| [Problem Link](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)
+- [x] **Prob 26:** Remove duplicates from a sorted array \| [Problem Link](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)
 - [ ] **Prob 27:** Remove duplicates from an unsorted array \| [Problem Link](https://www.geeksforgeeks.org/remove-duplicates-from-an-unsorted-array/)
 - [ ] **Prob 28:** Find all repeating elements in an array \| [Problem Link](https://leetcode.com/problems/find-all-duplicates-in-an-array/)
 - [ ] **Prob 29:** Find all non-repeating elements in an array \| [Problem Link](https://www.geeksforgeeks.org/problems/non-repeating-element3908/1)
 - [ ] **Prob 30:** Find symmetric pairs in an array \| [Problem Link](https://www.geeksforgeeks.org/problems/given-an-array-of-pairs-find-all-symmetric-pairs-in-it/1)
 - [ ] **Prob 31:** Maximum product subarray in an array \| [Problem Link](https://leetcode.com/problems/maximum-product-subarray/)
-- [ ] **Prob 32:** Replace each element by its rank in the array \| [Problem Link](https://leetcode.com/problems/rank-transform-of-an-array/)
+- [x] **Prob 32:** Replace each element by its rank in the array \| [Problem Link](https://leetcode.com/problems/rank-transform-of-an-array/)
 - [ ] **Prob 33:** Sorting elements of an array by frequency \| [Problem Link](https://leetcode.com/problems/sort-array-by-increasing-frequency/)
 - [ ] **Prob 34:** Find the Equilibrium Index of an array \| [Problem Link](https://leetcode.com/problems/find-pivot-index/)
-- [ ] **Prob 35:** Search an element in an array (Linear & Binary Search) \| [Problem Link](https://leetcode.com/problems/binary-search/)
+- [x] **Prob 35:** Search an element in an array (Linear & Binary Search) \| [Problem Link](https://leetcode.com/problems/binary-search/)
 
 ---
 
