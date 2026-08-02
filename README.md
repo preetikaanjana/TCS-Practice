@@ -70,7 +70,7 @@ This repository contains **100 curated coding problems, patterns, and Previous Y
 - [x] **Prob 38:** Find the ASCII value of a character \| [Problem Link](https://www.geeksforgeeks.org/program-print-ascii-value-character/)
 - [x] **Prob 39:** Remove all vowels from a string \| [Problem Link](https://leetcode.com/problems/remove-vowels-from-a-string/)
 - [x] **Prob 40:** Remove spaces from a string \| [Problem Link](https://www.geeksforgeeks.org/remove-spaces-from-a-given-string/)
-- [ ] **Prob 41:** Remove all characters from a string except alphabets \| [Problem Link](https://www.geeksforgeeks.org/remove-characters-from-a-string-except-alphabets/)
+- [x] **Prob 41:** Remove all characters from a string except alphabets \| [Problem Link](https://www.geeksforgeeks.org/remove-characters-from-a-string-except-alphabets/)
 - [ ] **Prob 42:** Reverse a string \| [Problem Link](https://leetcode.com/problems/reverse-string/)
 - [ ] **Prob 43:** Remove brackets from an algebraic expression \| [Problem Link](https://www.geeksforgeeks.org/simplify-the-directory-path-unix-like/)
 - [ ] **Prob 44:** Sum of numbers in a string \| [Problem Link](https://www.geeksforgeeks.org/calculate-sum-of-all-numbers-present-in-a-string/)
