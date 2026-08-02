@@ -65,7 +65,7 @@ This repository contains **100 curated coding problems, patterns, and Previous Y
 ### 🔤 3. String Processing - Level 1 (15 Problems)
 *Focus: Character counts, ASCII processing, and standard transformations.*
 
-- [ ] **Prob 36:** Check if a given string is a Palindrome \| [Problem Link](https://leetcode.com/problems/valid-palindrome/)
+- [x] **Prob 36:** Check if a given string is a Palindrome \| [Problem Link](https://leetcode.com/problems/valid-palindrome/)
 - [ ] **Prob 37:** Count number of Vowels, Consonants, and Spaces \| [Problem Link](https://www.geeksforgeeks.org/count-vowels-consonants-digits-special-characters-string/)
 - [ ] **Prob 38:** Find the ASCII value of a character \| [Problem Link](https://www.geeksforgeeks.org/program-print-ascii-value-character/)
 - [ ] **Prob 39:** Remove all vowels from a string \| [Problem Link](https://leetcode.com/problems/remove-vowels-from-a-string/)
