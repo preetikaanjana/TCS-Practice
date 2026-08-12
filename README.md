@@ -18,12 +18,12 @@ This repository contains **100 curated coding problems, patterns, and Previous Y
 ### 🔢 1. Number Theory & Mathematics (15 Problems)
 *Focus: Logic building, loops, constraints, and base conversions.*
 
-- [ ] **Prob 01:** Check if a number is a Prime Number \| [Problem Link](https://www.geeksforgeeks.org/problems/prime-number2314/1)
-- [ ] **Prob 02:** Find all Prime Numbers in a given range \| [Problem Link](https://www.geeksforgeeks.org/problems/find-prime-numbers-in-a-given-range3839/1)
-- [ ] **Prob 03:** Check if a number is an Armstrong Number \| [Problem Link](https://www.geeksforgeeks.org/problems/armstrong-numbers2727/1)
-- [ ] **Prob 04:** Check for Palindrome Number \| [Problem Link](https://leetcode.com/problems/palindrome-number/)
-- [ ] **Prob 05:** Find GCD / HCF of two numbers \| [Problem Link](https://www.geeksforgeeks.org/problems/gcd-of-two-numbers3459/1)
-- [ ] **Prob 06:** Program to find LCM of two numbers \| [Problem Link](https://www.geeksforgeeks.org/problems/lcm-and-gcd4516/1)
+- [x] **Prob 01:** Check if a number is a Prime Number \| [Problem Link](https://www.geeksforgeeks.org/problems/prime-number2314/1)
+- [x] **Prob 02:** Find all Prime Numbers in a given range \| [Problem Link](https://www.geeksforgeeks.org/problems/find-prime-numbers-in-a-given-range3839/1)
+- [x] **Prob 03:** Check if a number is an Armstrong Number \| [Problem Link](https://www.geeksforgeeks.org/problems/armstrong-numbers2727/1)
+- [x] **Prob 04:** Check for Palindrome Number \| [Problem Link](https://leetcode.com/problems/palindrome-number/)
+- [x] **Prob 05:** Find GCD / HCF of two numbers \| [Problem Link](https://www.geeksforgeeks.org/problems/gcd-of-two-numbers3459/1)
+- [x] **Prob 06:** Program to find LCM of two numbers \| [Problem Link](https://www.geeksforgeeks.org/problems/lcm-and-gcd4516/1)
 - [ ] **Prob 07:** Check if a number is a Strong Number \| [Problem Link](https://www.geeksforgeeks.org/problems/strong-numbers2012/1)
 - [ ] **Prob 08:** Check if a number is a Perfect Number \| [Problem Link](https://leetcode.com/problems/perfect-number/)
 - [ ] **Prob 09:** Check if a number is an Automorphic Number \| [Problem Link](https://www.geeksforgeeks.org/problems/automorphic-number4202/1)
