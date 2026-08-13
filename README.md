@@ -24,15 +24,15 @@ This repository contains **100 curated coding problems, patterns, and Previous Y
 - [x] **Prob 04:** Check for Palindrome Number \| [Problem Link](https://leetcode.com/problems/palindrome-number/)
 - [x] **Prob 05:** Find GCD / HCF of two numbers \| [Problem Link](https://www.geeksforgeeks.org/problems/gcd-of-two-numbers3459/1)
 - [x] **Prob 06:** Program to find LCM of two numbers \| [Problem Link](https://www.geeksforgeeks.org/problems/lcm-and-gcd4516/1)
-- [ ] **Prob 07:** Check if a number is a Strong Number \| [Problem Link](https://www.geeksforgeeks.org/problems/strong-numbers2012/1)
-- [ ] **Prob 08:** Check if a number is a Perfect Number \| [Problem Link](https://leetcode.com/problems/perfect-number/)
+- [x] **Prob 07:** Check if a number is a Strong Number \| [Problem Link](https://www.geeksforgeeks.org/problems/strong-numbers2012/1)
+- [x] **Prob 08:** Check if a number is a Perfect Number \| [Problem Link](https://leetcode.com/problems/perfect-number/)
 - [ ] **Prob 09:** Check if a number is an Automorphic Number \| [Problem Link](https://www.geeksforgeeks.org/problems/automorphic-number4202/1)
 - [ ] **Prob 10:** Check if a number is a Harshad Number \| [Problem Link](https://leetcode.com/problems/harshad-number/)
 - [ ] **Prob 11:** Check if a number is an Abundant Number \| [Problem Link](https://www.geeksforgeeks.org/abundant-number/)
 - [ ] **Prob 12:** Convert Decimal to Binary Number System \| [Problem Link](https://www.geeksforgeeks.org/problems/decimal-to-binary-1587115620/1)
 - [ ] **Prob 13:** Convert Binary to Decimal Number System \| [Problem Link](https://www.geeksforgeeks.org/problems/binary-number-to-decimal-number3525/1)
 - [ ] **Prob 14:** Convert Octal to Decimal Number System \| [Problem Link](https://www.geeksforgeeks.org/program-octal-decimal-conversion/)
-- [ ] **Prob 15:** Program to generate Fibonacci Series up to N terms \| [Problem Link](https://leetcode.com/problems/fibonacci-number/)
+- [x] **Prob 15:** Program to generate Fibonacci Series up to N terms \| [Problem Link](https://leetcode.com/problems/fibonacci-number/)
 
 ---
 

@@ -26,22 +26,22 @@ Welcome to the **TCS NQT 10-Day Advanced Coding Sprint**! This plan contains **7
 ### 🔢 Day 1: Number Theory (8 Problems)
 *Trimmed repetitive digit-extraction clones (Automorphic, Abundant, Octal).*
 
-- [ ] **01.** Prime Check | [GeeksforGeeks](https://www.geeksforgeeks.org/problems/prime-number2314/1)
-- [ ] **02.** Armstrong Number | [GeeksforGeeks](https://www.geeksforgeeks.org/problems/armstrong-numbers2727/1)
-- [ ] **03.** Palindrome Number | [LeetCode](https://leetcode.com/problems/palindrome-number/)
-- [ ] **04.** GCD & LCM of two numbers | [GeeksforGeeks](https://www.geeksforgeeks.org/problems/lcm-and-gcd4516/1)
-- [ ] **05.** Strong Number | [GeeksforGeeks](https://www.geeksforgeeks.org/problems/strong-numbers2012/1)
-- [ ] **06.** Perfect Number | [LeetCode](https://leetcode.com/problems/perfect-number/)
+- [x] **01.** Prime Check | [GeeksforGeeks](https://www.geeksforgeeks.org/problems/prime-number2314/1)
+- [x] **02.** Armstrong Number | [GeeksforGeeks](https://www.geeksforgeeks.org/problems/armstrong-numbers2727/1)
+- [x] **03.** Palindrome Number | [LeetCode](https://leetcode.com/problems/palindrome-number/)
+- [x] **04.** GCD & LCM of two numbers | [GeeksforGeeks](https://www.geeksforgeeks.org/problems/lcm-and-gcd4516/1)
+- [x] **05.** Strong Number | [GeeksforGeeks](https://www.geeksforgeeks.org/problems/strong-numbers2012/1)
+- [x] **06.** Perfect Number | [LeetCode](https://leetcode.com/problems/perfect-number/)
 - [ ] **07.** Decimal to Binary Conversion | [GeeksforGeeks](https://www.geeksforgeeks.org/problems/decimal-to-binary-1587115620/1)
-- [ ] **08.** Fibonacci Series (N terms) | [LeetCode](https://leetcode.com/problems/fibonacci-number/)
+- [x] **08.** Fibonacci Series (N terms) | [LeetCode](https://leetcode.com/problems/fibonacci-number/)
 
 ---
 
 ### 📊 Day 2: Arrays - Level 1 (14 Problems)
 *Kept crucial array logic, rank mapping, and equilibrium indexes.*
 
-- [ ] **01.** Second Smallest & Second Largest | [GeeksforGeeks](https://www.geeksforgeeks.org/problems/second-largest3735/1)
-- [ ] **02.** Reverse Array In-Place | [LeetCode](https://leetcode.com/problems/reverse-string/)
+- [x] **01.** Second Smallest & Second Largest | [GeeksforGeeks](https://www.geeksforgeeks.org/problems/second-largest3735/1)
+- [x] **02.** Reverse Array In-Place | [LeetCode](https://leetcode.com/problems/reverse-string/)
 - [ ] **03.** Frequency Count of Elements | [GeeksforGeeks](https://www.geeksforgeeks.org/problems/frequency-of-array-elements-1587115620/1)
 - [ ] **04.** Rotate Array by K positions | [LeetCode](https://leetcode.com/problems/rotate-array/)
 - [ ] **05.** Remove Duplicates from Sorted Array | [LeetCode](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)
