@@ -26,7 +26,7 @@ This repository contains **100 curated coding problems, patterns, and Previous Y
 - [x] **Prob 06:** Program to find LCM of two numbers \| [Problem Link](https://www.geeksforgeeks.org/problems/lcm-and-gcd4516/1)
 - [x] **Prob 07:** Check if a number is a Strong Number \| [Problem Link](https://www.geeksforgeeks.org/problems/strong-numbers2012/1)
 - [x] **Prob 08:** Check if a number is a Perfect Number \| [Problem Link](https://leetcode.com/problems/perfect-number/)
-- [ ] **Prob 09:** Check if a number is an Automorphic Number \| [Problem Link](https://www.geeksforgeeks.org/problems/automorphic-number4202/1)
+- [x] **Prob 09:** Check if a number is an Automorphic Number \| [Problem Link](https://www.geeksforgeeks.org/problems/automorphic-number4202/1)
 - [ ] **Prob 10:** Check if a number is a Harshad Number \| [Problem Link](https://leetcode.com/problems/harshad-number/)
 - [ ] **Prob 11:** Check if a number is an Abundant Number \| [Problem Link](https://www.geeksforgeeks.org/abundant-number/)
 - [ ] **Prob 12:** Convert Decimal to Binary Number System \| [Problem Link](https://www.geeksforgeeks.org/problems/decimal-to-binary-1587115620/1)
@@ -56,7 +56,7 @@ This repository contains **100 curated coding problems, patterns, and Previous Y
 - [ ] **Prob 30:** Find symmetric pairs in an array \| [Problem Link](https://www.geeksforgeeks.org/problems/given-an-array-of-pairs-find-all-symmetric-pairs-in-it/1)
 - [ ] **Prob 31:** Maximum product subarray in an array \| [Problem Link](https://leetcode.com/problems/maximum-product-subarray/)
 - [x] **Prob 32:** Replace each element by its rank in the array \| [Problem Link](https://leetcode.com/problems/rank-transform-of-an-array/)
-- [ ] **Prob 33:** Sorting elements of an array by frequency \| [Problem Link](https://leetcode.com/problems/sort-array-by-increasing-frequency/)
+- [x] **Prob 33:** Sorting elements of an array by frequency \| [Problem Link](https://leetcode.com/problems/sort-array-by-increasing-frequency/)
 - [ ] **Prob 34:** Find the Equilibrium Index of an array \| [Problem Link](https://leetcode.com/problems/find-pivot-index/)
 - [x] **Prob 35:** Search an element in an array (Linear & Binary Search) \| [Problem Link](https://leetcode.com/problems/binary-search/)
 
