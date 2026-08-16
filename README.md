@@ -44,7 +44,7 @@ This repository contains **100 curated coding problems, patterns, and Previous Y
 - [x] **Prob 18:** Find the second smallest and second largest element \| [Problem Link](https://www.geeksforgeeks.org/problems/second-largest3735/1)
 - [x] **Prob 19:** Reverse a given array in-place \| [Problem Link](https://www.geeksforgeeks.org/problems/reverse-an-array/1)
 - [x] **Prob 20:** Count frequency of each element in an array \| [Problem Link](https://www.geeksforgeeks.org/problems/frequency-of-array-elements-1587115620/1)
-- [ ] **Prob 21:** Sort first half in ascending and second half in descending order \| [Problem Link](https://www.geeksforgeeks.org/sort-first-half-in-ascending-and-second-half-in-descending-order/)
+- [x] **Prob 21:** Sort first half in ascending and second half in descending order \| [Problem Link](https://www.geeksforgeeks.org/sort-first-half-in-ascending-and-second-half-in-descending-order/)
 - [x] **Prob 22:** Calculate sum of all elements in an array \| [Problem Link](https://www.geeksforgeeks.org/problems/sum-of-array-elements2502/1)
 - [ ] **Prob 23:** Rotate array elements by K positions (Left/Right) \| [Problem Link](https://leetcode.com/problems/rotate-array/)
 - [x] **Prob 24:** Find the average of all elements in an array \| [Problem Link](https://www.geeksforgeeks.org/program-average-array-iterative-recursive/)
