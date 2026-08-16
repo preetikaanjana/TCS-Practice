@@ -86,7 +86,7 @@ This repository contains **100 curated coding problems, patterns, and Previous Y
 ### 🚀 4. Advanced Coding: Two-Pointer & Sliding Window (15 Problems)
 *Focus: Reducing quadratic time complexities O(N²) to linear time O(N).*
 
-- [ ] **Prob 51:** Find two numbers that sum up to a specific target (Two Sum) \| [Problem Link](https://leetcode.com/problems/two-sum/)
+- [x] **Prob 51:** Find two numbers that sum up to a specific target (Two Sum) \| [Problem Link](https://leetcode.com/problems/two-sum/)
 - [ ] **Prob 52:** Find triplets that sum to zero (3Sum problem) \| [Problem Link](https://leetcode.com/problems/3sum/)
 - [ ] **Prob 53:** Find the maximum sum subarray of size K (Sliding Window) \| [Problem Link](https://www.geeksforgeeks.org/problems/max-sum-subarray-of-size-k5313/1)
 - [ ] **Prob 54:** Longest substring without repeating characters \| [Problem Link](https://leetcode.com/problems/longest-substring-without-repeating-characters/)
@@ -107,16 +107,16 @@ This repository contains **100 curated coding problems, patterns, and Previous Y
 ### 🗺️ 5. Matrix & 2D Array Patterns (10 Problems)
 *Focus: Structural loops, grid boundaries, and spatial math calculations.*
 
-- [ ] **Prob 66:** Matrix Addition and Subtraction \| [Problem Link](https://www.geeksforgeeks.org/program-addition-two-matrices/)
-- [ ] **Prob 67:** Matrix Multiplication \| [Problem Link](https://www.geeksforgeeks.org/c-program-multiply-two-matrices/)
-- [ ] **Prob 68:** Find the Transpose of a Matrix \| [Problem Link](https://leetcode.com/problems/transpose-matrix/)
-- [ ] **Prob 69:** Rotate a Matrix by 90 Degrees Clockwise \| [Problem Link](https://leetcode.com/problems/rotate-image/)
+- [x] **Prob 66:** Matrix Addition and Subtraction \| [Problem Link](https://www.geeksforgeeks.org/program-addition-two-matrices/)
+- [x] **Prob 67:** Matrix Multiplication \| [Problem Link](https://www.geeksforgeeks.org/c-program-multiply-two-matrices/)
+- [x] **Prob 68:** Find the Transpose of a Matrix \| [Problem Link](https://leetcode.com/problems/transpose-matrix/)
+- [x] **Prob 69:** Rotate a Matrix by 90 Degrees Clockwise \| [Problem Link](https://leetcode.com/problems/rotate-image/)
 - [ ] **Prob 70:** Print a Matrix in Spiral Traversal order \| [Problem Link](https://leetcode.com/problems/spiral-matrix/)
-- [ ] **Prob 71:** Find the row with the maximum number of 1s \| [Problem Link](https://www.geeksforgeeks.org/problems/row-with-max-1s0023/1)
-- [ ] **Prob 72:** Search for an element in a 2D sorted matrix \| [Problem Link](https://leetcode.com/problems/search-a-2d-matrix/)
-- [ ] **Prob 73:** Compute sum of both diagonals of a matrix \| [Problem Link](https://leetcode.com/problems/matrix-diagonal-sum/)
-- [ ] **Prob 74:** Boundary elements traversal of a matrix \| [Problem Link](https://www.geeksforgeeks.org/problems/boundary-traversal-of-matrix-1587115620/1)
-- [ ] **Prob 75:** Set Matrix Zeroes if an element is 0 \| [Problem Link](https://leetcode.com/problems/set-matrix-zeroes/)
+- [x] **Prob 71:** Find the row with the maximum number of 1s \| [Problem Link](https://www.geeksforgeeks.org/problems/row-with-max-1s0023/1)
+- [x] **Prob 72:** Search for an element in a 2D sorted matrix \| [Problem Link](https://leetcode.com/problems/search-a-2d-matrix/)
+- [x] **Prob 73:** Compute sum of both diagonals of a matrix \| [Problem Link](https://leetcode.com/problems/matrix-diagonal-sum/)
+- [x] **Prob 74:** Boundary elements traversal of a matrix \| [Problem Link](https://www.geeksforgeeks.org/problems/boundary-traversal-of-matrix-1587115620/1)
+- [x] **Prob 75:** Set Matrix Zeroes if an element is 0 \| [Problem Link](https://leetcode.com/problems/set-matrix-zeroes/)
 
 ---
 
